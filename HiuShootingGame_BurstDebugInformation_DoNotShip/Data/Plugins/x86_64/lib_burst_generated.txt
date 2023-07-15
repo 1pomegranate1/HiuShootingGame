@@ -142,6 +142,7 @@ Library: lib_burst_generated
 --root-assembly=D:\unity_D\TopView2DShootingGame1\Temp\StagingArea\Data\Managed\Unity.VisualScripting.State.dll
 --root-assembly=D:\unity_D\TopView2DShootingGame1\Temp\StagingArea\Data\Managed\Unity.VisualScripting.Core.dll
 --root-assembly=D:\unity_D\TopView2DShootingGame1\Temp\StagingArea\Data\Managed\Unity.RenderPipelines.Universal.Runtime.dll
+--root-assembly=D:\unity_D\TopView2DShootingGame1\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
 --root-assembly=D:\unity_D\TopView2DShootingGame1\Temp\StagingArea\Data\Managed\Unity.Services.Core.Environments.Internal.dll
 --root-assembly=D:\unity_D\TopView2DShootingGame1\Temp\StagingArea\Data\Managed\Unity.Burst.dll
 --root-assembly=D:\unity_D\TopView2DShootingGame1\Temp\StagingArea\Data\Managed\Unity.2D.Animation.Runtime.dll
@@ -150,7 +151,6 @@ Library: lib_burst_generated
 --root-assembly=D:\unity_D\TopView2DShootingGame1\Temp\StagingArea\Data\Managed\Unity.RenderPipeline.Universal.ShaderLibrary.dll
 --root-assembly=D:\unity_D\TopView2DShootingGame1\Temp\StagingArea\Data\Managed\Unity.Services.Core.Environments.dll
 --root-assembly=D:\unity_D\TopView2DShootingGame1\Temp\StagingArea\Data\Managed\Unity.Services.Core.Internal.dll
---root-assembly=D:\unity_D\TopView2DShootingGame1\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
 --root-assembly=D:\unity_D\TopView2DShootingGame1\Temp\StagingArea\Data\Managed\Unity.Services.Core.Analytics.dll
 --root-assembly=D:\unity_D\TopView2DShootingGame1\Temp\StagingArea\Data\Managed\Unity.2D.SpriteShape.Runtime.dll
 --root-assembly=D:\unity_D\TopView2DShootingGame1\Temp\StagingArea\Data\Managed\Unity.Services.Core.Scheduler.dll
@@ -327,6 +327,7 @@ Library: lib_burst_generated
 --root-assembly=D:\unity_D\TopView2DShootingGame1\Temp\StagingArea\Data\Managed\Unity.VisualScripting.State.dll
 --root-assembly=D:\unity_D\TopView2DShootingGame1\Temp\StagingArea\Data\Managed\Unity.VisualScripting.Core.dll
 --root-assembly=D:\unity_D\TopView2DShootingGame1\Temp\StagingArea\Data\Managed\Unity.RenderPipelines.Universal.Runtime.dll
+--root-assembly=D:\unity_D\TopView2DShootingGame1\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
 --root-assembly=D:\unity_D\TopView2DShootingGame1\Temp\StagingArea\Data\Managed\Unity.Services.Core.Environments.Internal.dll
 --root-assembly=D:\unity_D\TopView2DShootingGame1\Temp\StagingArea\Data\Managed\Unity.Burst.dll
 --root-assembly=D:\unity_D\TopView2DShootingGame1\Temp\StagingArea\Data\Managed\Unity.2D.Animation.Runtime.dll
@@ -335,7 +336,6 @@ Library: lib_burst_generated
 --root-assembly=D:\unity_D\TopView2DShootingGame1\Temp\StagingArea\Data\Managed\Unity.RenderPipeline.Universal.ShaderLibrary.dll
 --root-assembly=D:\unity_D\TopView2DShootingGame1\Temp\StagingArea\Data\Managed\Unity.Services.Core.Environments.dll
 --root-assembly=D:\unity_D\TopView2DShootingGame1\Temp\StagingArea\Data\Managed\Unity.Services.Core.Internal.dll
---root-assembly=D:\unity_D\TopView2DShootingGame1\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
 --root-assembly=D:\unity_D\TopView2DShootingGame1\Temp\StagingArea\Data\Managed\Unity.Services.Core.Analytics.dll
 --root-assembly=D:\unity_D\TopView2DShootingGame1\Temp\StagingArea\Data\Managed\Unity.2D.SpriteShape.Runtime.dll
 --root-assembly=D:\unity_D\TopView2DShootingGame1\Temp\StagingArea\Data\Managed\Unity.Services.Core.Scheduler.dll
