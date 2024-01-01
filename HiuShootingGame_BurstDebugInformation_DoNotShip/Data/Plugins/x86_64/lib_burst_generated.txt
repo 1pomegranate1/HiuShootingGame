@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 Library: lib_burst_generated
+=======
+Library: F:\UnityProject\TopView2DShootingGame1\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
+>>>>>>> Stashed changes
 --platform=Windows
 --backend=burst-llvm-11
 --target=X64_SSE2
@@ -138,6 +142,7 @@ Library: lib_burst_generated
 --compilation-defines=ENABLE_SPRITESHAPE_BURST
 --linker-options=PdbAltPath="HiuShootingGame_Data/Plugins/x86_64"
 --generate-link-xml=Temp\burst.link.xml
+<<<<<<< Updated upstream
 --debug=Full
 --output=D:\unity_D\TopView2DShootingGame1\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
 --root-assembly=D:\unity_D\TopView2DShootingGame1\Temp\StagingArea\Data\Managed\UnityEngine.UI.dll
@@ -175,6 +180,12 @@ Library: lib_burst_generated
 --root-assembly=D:\unity_D\TopView2DShootingGame1\Temp\StagingArea\Data\Managed\Unity.RenderPipelines.Universal.Shaders.dll
 --root-assembly=D:\unity_D\TopView2DShootingGame1\Temp\StagingArea\Data\Managed\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
 --assembly-folder=D:\unity_D\TopView2DShootingGame1\Temp\StagingArea\Data\Managed\
+=======
+--temp-folder=F:\UnityProject\TopView2DShootingGame1\Temp\Burst
+--key-folder=C:/Program Files/Unity/Hub/Editor/2021.3.30f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--decode-folder=F:\UnityProject\TopView2DShootingGame1\Library\Burst
+--output=F:\UnityProject\TopView2DShootingGame1\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
+>>>>>>> Stashed changes
 --pdb-search-paths=Temp/ManagedSymbols/
 --method=Unity.Jobs.IJobForExtensions+ForJobStruct`1[[UnityEngine.Rendering.Universal.ReorderJob`1[[UnityEngine.Rendering.Universal.LightMinMaxZ, Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(UnityEngine.Rendering.Universal.ReorderJob`1[[UnityEngine.Rendering.Universal.LightMinMaxZ, Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]&, Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)--e943843acfb78f5f2f3716a6553740d9
 --method=Unity.Burst.BurstCompiler+BurstCompilerHelper, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::IsBurstEnabled()--8c2be93e18276203cbd918daa2748a10
@@ -329,6 +340,7 @@ Library: lib_burst_generated
 --compilation-defines=ENABLE_SPRITESHAPE_BURST
 --linker-options=PdbAltPath="HiuShootingGame_Data/Plugins/x86_64"
 --generate-link-xml=Temp\burst.link.xml
+<<<<<<< Updated upstream
 --debug=Full
 --output=D:\unity_D\TopView2DShootingGame1\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
 --root-assembly=D:\unity_D\TopView2DShootingGame1\Temp\StagingArea\Data\Managed\UnityEngine.UI.dll
@@ -366,6 +378,12 @@ Library: lib_burst_generated
 --root-assembly=D:\unity_D\TopView2DShootingGame1\Temp\StagingArea\Data\Managed\Unity.RenderPipelines.Universal.Shaders.dll
 --root-assembly=D:\unity_D\TopView2DShootingGame1\Temp\StagingArea\Data\Managed\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
 --assembly-folder=D:\unity_D\TopView2DShootingGame1\Temp\StagingArea\Data\Managed\
+=======
+--temp-folder=F:\UnityProject\TopView2DShootingGame1\Temp\Burst
+--key-folder=C:/Program Files/Unity/Hub/Editor/2021.3.30f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--decode-folder=F:\UnityProject\TopView2DShootingGame1\Library\Burst
+--output=F:\UnityProject\TopView2DShootingGame1\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
+>>>>>>> Stashed changes
 --pdb-search-paths=Temp/ManagedSymbols/
 --method=Unity.Jobs.IJobForExtensions+ForJobStruct`1[[UnityEngine.Rendering.Universal.ReorderJob`1[[UnityEngine.Rendering.Universal.LightMinMaxZ, Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(UnityEngine.Rendering.Universal.ReorderJob`1[[UnityEngine.Rendering.Universal.LightMinMaxZ, Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]&, Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)--e943843acfb78f5f2f3716a6553740d9
 --method=Unity.Burst.BurstCompiler+BurstCompilerHelper, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::IsBurstEnabled()--8c2be93e18276203cbd918daa2748a10
