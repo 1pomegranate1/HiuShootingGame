@@ -1,4 +1,4 @@
-Library: F:\UnityProject\TopView2DShootingGame1\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
+Library: E:\UnityProject\TopView2DShootingGame1\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
 --platform=Windows
 --backend=burst-llvm-14
 --target=X64_SSE2
@@ -97,6 +97,11 @@ Library: F:\UnityProject\TopView2DShootingGame1\Temp\StagingArea\Data\Plugins\x8
 --compilation-defines=NET_STANDARD_2_1
 --compilation-defines=NETSTANDARD
 --compilation-defines=NETSTANDARD2_1
+--compilation-defines=DEVELOPMENT_BUILD
+--compilation-defines=ENABLE_PROFILER
+--compilation-defines=DEBUG
+--compilation-defines=TRACE
+--compilation-defines=UNITY_ASSERTIONS
 --compilation-defines=ENABLE_CUSTOM_RENDER_TEXTURE
 --compilation-defines=ENABLE_DIRECTOR
 --compilation-defines=ENABLE_LOCALIZATION
@@ -130,10 +135,11 @@ Library: F:\UnityProject\TopView2DShootingGame1\Temp\StagingArea\Data\Plugins\x8
 --compilation-defines=ENABLE_URP
 --linker-options=PdbAltPath="HiuShootingGame_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=F:\UnityProject\TopView2DShootingGame1\Temp\Burst
+--temp-folder=E:\UnityProject\TopView2DShootingGame1\Temp\Burst
+--debug=LineOnly
 --key-folder=C:/Program Files/Unity/Hub/Editor/2021.3.30f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
---decode-folder=F:\UnityProject\TopView2DShootingGame1\Library\Burst
---output=F:\UnityProject\TopView2DShootingGame1\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
+--decode-folder=E:\UnityProject\TopView2DShootingGame1\Library\Burst
+--output=E:\UnityProject\TopView2DShootingGame1\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Burst.BurstCompiler+BurstCompilerHelper, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::IsBurstEnabled()--8c2be93e18276203cbd918daa2748a10
@@ -249,6 +255,11 @@ Library: F:\UnityProject\TopView2DShootingGame1\Temp\StagingArea\Data\Plugins\x8
 --compilation-defines=NET_STANDARD_2_1
 --compilation-defines=NETSTANDARD
 --compilation-defines=NETSTANDARD2_1
+--compilation-defines=DEVELOPMENT_BUILD
+--compilation-defines=ENABLE_PROFILER
+--compilation-defines=DEBUG
+--compilation-defines=TRACE
+--compilation-defines=UNITY_ASSERTIONS
 --compilation-defines=ENABLE_CUSTOM_RENDER_TEXTURE
 --compilation-defines=ENABLE_DIRECTOR
 --compilation-defines=ENABLE_LOCALIZATION
@@ -282,10 +293,11 @@ Library: F:\UnityProject\TopView2DShootingGame1\Temp\StagingArea\Data\Plugins\x8
 --compilation-defines=ENABLE_URP
 --linker-options=PdbAltPath="HiuShootingGame_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=F:\UnityProject\TopView2DShootingGame1\Temp\Burst
+--temp-folder=E:\UnityProject\TopView2DShootingGame1\Temp\Burst
+--debug=LineOnly
 --key-folder=C:/Program Files/Unity/Hub/Editor/2021.3.30f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
---decode-folder=F:\UnityProject\TopView2DShootingGame1\Library\Burst
---output=F:\UnityProject\TopView2DShootingGame1\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
+--decode-folder=E:\UnityProject\TopView2DShootingGame1\Library\Burst
+--output=E:\UnityProject\TopView2DShootingGame1\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Burst.BurstCompiler+BurstCompilerHelper, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::IsBurstEnabled()--8c2be93e18276203cbd918daa2748a10
